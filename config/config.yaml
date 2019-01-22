@@ -1,0 +1,10 @@
+adb_host_ip: 127.0.0.1
+adb_host_port: 5037
+connect_func: ADBORI
+devices:
+  - device_name: 192.168.137.229:30016
+    phone_ip: 192.168.137.229
+    phone_port: 30016
+#  - device_name: 192.168.137.239:30016
+#    phone_ip: 192.168.137.239
+#    phone_port: 30016
